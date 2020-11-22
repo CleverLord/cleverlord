@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### Link do własnej strony
+[Strona profilu CleverLord](https://cleverlord.github.io/)
 <!--
 **CleverLord/cleverlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
