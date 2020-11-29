@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### Link do własnej strony
 [Strona profilu CleverLord](https://cleverlord.github.io/)
+
+[Fork artykułu Autopilot-TensorFlow](https://github.com/CleverLord/Autopilot-TensorFlow)
+
 <!--
 **CleverLord/cleverlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
