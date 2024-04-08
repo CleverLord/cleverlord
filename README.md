@@ -1,31 +1,19 @@
-## I am 3rd year student of Computer Science and Smart Systems
----
-After years of self-learning Unity 3D and making lot's of educational projects (this is my excuse for doing only the hard part in the projects and abandoning them preety much forever :) ) 
-<!-- I made a great tool, that I believe should be a great base for any hexagonal project. During development I was focused not on many feaures, but on crating functions any developer could ever need from this system.
+# Welcome to My GitHub Profile! 👋
 
-[Ultimate Hexagonal World Editor](https://github.com/CleverLord/Ultimate-Hexagonal-World-Editor)
-(It is private in the moment of writing, but should be released soon)
+Hello there! I'm Krzysiek, a passionate 4th grade student exploring the exciting world of Computer Science and Smart Systems. 🚀
 
----
-I also used this account to hand in my project for Graph Teory. It includes algorithms like
-  - path coloring
-  - vertices coloring
-  - determining Hammiltons' property
-  - determinign Eulers' property
-  - A*
-  - brute forced (if even finished) searching for planarity of the graph
+## About Me
 
+- 🌱 I'm currently learning and experimenting with various aspects of technology, particularly focusing on programming and game development.
+- 🔭 I have been diving deep into the world of C# and Unity, crafting fun and interactive experiences through game development.
+- 🎮 As a lover of games, I find joy in creating my own worlds and bringing them to life through code.
+- 💡 I'm always eager to explore new concepts and technologies, constantly seeking to expand my knowledge and skills.
 
-**CleverLord/cleverlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What You'll Find Here
 
-Here are some ideas to get you started:
+- 📚 Repositories showcasing my journey in learning and experimenting with different programming languages and technologies.
+- 🏫 Collaborative college projects showcasing my leadership and the practical application of computer science and smart systems concepts.
+- 🎮 Projects highlighting my work in C# with Unity, ranging from small games to interactive simulations.
+- 🤝 Contributions to open-source projects and collaborations with fellow developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my GitHub profile! Let's code and create together! 🌟
